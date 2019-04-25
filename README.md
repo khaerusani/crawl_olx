@@ -1,5 +1,5 @@
-# CRAWL OLX
-crawl olx.co.id dengan scrapy
+# SIMPLE CRAWLER OLX
+simple crawler olx.co.id with scrapy
 
 # Running
     $ git clone https://github.com/khaerusani/crawl_olx.git
